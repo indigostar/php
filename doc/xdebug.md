@@ -3,7 +3,7 @@
 XDebug是一个开放源代码的PHP程序调试器(即一个Debug工具)，可以用来跟踪，调试和分析PHP程序的运行状况。
 
 # 安装XDebug
-下载站点 http://www.xdebug.org/ 如何知道下载哪个版本，可以将执行phpinfo()输出的信息，复制到http://www.xdebug.org/find-binary.php中提交，然后xdebug会输出一段summary告诉你如何操作。我使用的操作系统是OS X EI Capitan 10.11.2,输出如下：
+下载站点 http://www.xdebug.org/ 如何知道下载哪个版本，可以将执行phpinfo()输出的信息，复制到http://www.xdebug.org/find-binary.php 中提交，然后xdebug会输出一段summary告诉你如何操作。我使用的操作系统是OS X EI Capitan 10.11.2,输出如下：
 ***
 Summary
 
